@@ -12,6 +12,3 @@ end
 group :development do
 
 end
-
-# require 'rubygems'
-# require 'bundler/setup'
