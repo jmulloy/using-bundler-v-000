@@ -1,3 +1,4 @@
+require environment
 Hashie
 Sinatra
 Octokit
